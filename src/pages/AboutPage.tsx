@@ -32,7 +32,7 @@ const AboutPage: React.FC = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">About Mwaura Property Managers</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Your trusted partner in real estate excellence, serving the Kenyan market with integrity and professionalism.
+            Your trusted partner in real estate excellence, serving Pipeline junction, Nakuru and the broader Kenyan market with integrity and professionalism.
           </p>
         </div>
 
@@ -78,9 +78,9 @@ const AboutPage: React.FC = () => {
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
           <div className="prose prose-lg max-w-none text-gray-600">
             <p className="mb-4">
-              Founded with a vision to revolutionize the real estate industry in Kenya, Mwaura Property Managers 
+              Founded with a vision to revolutionize the real estate industry in Nakuru and across Kenya, Mwaura Property Managers 
               has grown from a small startup to a trusted name in property management and real estate services. 
-              Our journey began with a simple belief: that every client deserves exceptional service and honest advice.
+              Located in Pipeline junction, Nakuru, our journey began with a simple belief: that every client deserves exceptional service and honest advice.
             </p>
             <p className="mb-4">
               Over the years, we have built a reputation for excellence through our commitment to understanding 
@@ -91,7 +91,7 @@ const AboutPage: React.FC = () => {
             <p>
               Today, we continue to expand our services while maintaining the personal touch and attention to 
               detail that has made us a preferred choice for property services in Kenya. Our team of experienced 
-              professionals is committed to providing you with the highest level of service and support throughout 
+              professionals based in Pipeline junction, Nakuru is committed to providing you with the highest level of service and support throughout 
               your property journey.
             </p>
           </div>

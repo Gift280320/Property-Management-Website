@@ -85,7 +85,7 @@ const ContactPage: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Location</h3>
-                  <p className="text-gray-600">Nairobi, Kenya</p>
+                  <p className="text-gray-600">Pipeline junction, Nakuru-Kenya</p>
                 </div>
               </div>
             </div>

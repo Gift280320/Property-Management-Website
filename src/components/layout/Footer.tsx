@@ -32,7 +32,7 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-green-500" />
-                <span className="text-gray-300">Nairobi, Kenya</span>
+                <span className="text-gray-300">Pipeline junction, Nakuru-Kenya</span>
               </div>
             </div>
           </div>

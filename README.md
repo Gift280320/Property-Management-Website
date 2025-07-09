@@ -112,7 +112,7 @@ A modern, responsive real estate website built with React, TypeScript, Tailwind 
 - **Phone**: 079471233
 - **Email**: ochiengkevin280320@gmail.com
 - **WhatsApp**: 0794712133
-- **Location**: Nairobi, Kenya
+- **Location**: Pipeline junction, Nakuru-Kenya
 
 ## 🎨 Design Features
 
